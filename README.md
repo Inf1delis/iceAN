@@ -29,9 +29,6 @@
 21. Командная строка Linux
 22. Virtual Box
 
-Доступ к ресурсу:
-https://vimpel38.ru/
-
 Для работы в веб-интерфейсе продукта рекомендуется использовать браузеры:
 - Chrome: (Current - 1) and Current
 - Edge: (Current - 1) and Current
@@ -44,7 +41,7 @@ https://vimpel38.ru/
 
 Над проектом работали:
 
-    1. Fullstack - Мамедов Валентин Юрьевич, v.mamedov@g.nsu.ru, GitHub: @Infidelis
+    1. Fullstack - Мамедов Валентин Юрьевич, v.mamedov@g.nsu.ru, GitHub: @Inf1delis
     2. DevOps - Емельянов Андрей Михайлович, andrey.emelyanov.nsk99@gmail.com, GitHub:
     3. DevOps - Бурцев Борис Евгеньевич, boris.burtseff@yandex.ru, GitHub:
     4. Backend - Куклина Анастасия Евгеньевна, namenori74@yandex.ru, GitHub: @Arvatel
